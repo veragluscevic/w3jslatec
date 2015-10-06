@@ -1,4 +1,5 @@
-# w3j
+# w3jslatec
+Python wrapper to the SLATEC wigner-3j calculations
 
 
 Installation:  `python setup.py install`
